@@ -4,6 +4,7 @@
 int main()
 {
   // ( SET age TO 10)
+  //test
   int age = 10; 
   double price = 19.99;
   bool hasPets = true;
